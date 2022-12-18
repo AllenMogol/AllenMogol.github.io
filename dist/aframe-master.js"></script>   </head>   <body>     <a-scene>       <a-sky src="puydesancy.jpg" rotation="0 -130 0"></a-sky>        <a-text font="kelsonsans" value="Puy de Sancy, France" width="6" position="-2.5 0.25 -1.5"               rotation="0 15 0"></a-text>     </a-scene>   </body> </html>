@@ -12,7 +12,13 @@
     <a-scene>
       <a-sky src="MetMuseum" rotation="0 -130 0"></a-sky>
 
-      <a-text font="kelsonsans" value="Puy de Sancy, France" width="6" position="-2.5 0.25 -1.5"
+      <a-text font="kelsonsans" value="Metropolitan Museum" width="6" position="-2.5 0.25 -1.5"
+              rotation="0 15 0"></a-text>
+    </a-scene>
+     <b-scene>
+      <b-sky src="CentralPark" rotation="0 -130 0"></a-sky>
+
+      <b-text font="kelsonsans" value="CentralPark" width="6" position="-2.5 0.25 -1.5"
               rotation="0 15 0"></a-text>
     </a-scene>
   </body>
